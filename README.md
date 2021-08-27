@@ -34,3 +34,5 @@ Groups the set's objects by sameness and returns the unique count
 Returns how many objects are actually in the set.
 
 # Sameness and difference
+
+* Two objects of different types (string and int, object and array, etc) will always be different.
